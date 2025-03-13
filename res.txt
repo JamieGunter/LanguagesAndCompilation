@@ -1,0 +1,15 @@
+Compilation Exception
+	Caused by [File: Programs Folder\program2 - Line 1] - Expected: 'begin' but got: token IDENTIFIER: begim (line 1)
+
+Compilation Exception
+	Caused by [File: Programs Folder\program3 - Line 11] - Expected: 'if' but got: token EOF (line 11)
+
+Compilation Exception
+	Caused by [File: Programs Folder\program5 - Line 7] - Expected: 'loop' but got: token ; (line 7)
+
+Compilation Exception
+	Caused by [File: Programs Folder\program7 - Line 4] - Expected: 'end' but got: token else (line 4)
+
+Compilation Exception
+	Caused by [File: Programs Folder\program8 - Line 12] - Expected: 'EOF' but got: token call (line 12)
+
